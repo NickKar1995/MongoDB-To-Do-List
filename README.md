@@ -1,5 +1,5 @@
 # MongoDB-To-Do-List
-A Weather app created using EJS,Express,Bootstrap,Node.js and an open weather API
+Using MongoDB, Mongoose and EJS this TO-DO-list stands on a different pedestal than your common lists
 
 ## How to run the app
 1. Either fork or download the app and open the folder in your editor.
